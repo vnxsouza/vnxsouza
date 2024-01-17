@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Vinicius</h1>
 <h3 align="center">Desenvolvedor Front-End apaixonado por tecnologia</h3>
 
-- 🔭 Atualmente estou trabalhando com **React e Angular utilizando Typescript e integração com API**
+- 🔭 Atualmente estou trabalhando com **React, Next e Angular utilizando Typescript e integração com API**
 
 - 🌱 Atualmente estou estudando **Node.js, React Native, Vue**
 
